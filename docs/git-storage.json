@@ -7,5 +7,5 @@
   "vue-screen": "https://gitee.com/AnsStory/hias-vite-screen.git",
   "react": "https://gitee.com/AnsStory/hias-react-template.git",
   "react-ts": "https://gitee.com/AnsStory/hias-react-ts-template.git",
-  "pnpm-monorepo": ""
+  "pnpm-monorepo": "https://gitee.com/AnsStory/hias-monorepo-template.git"
 }
